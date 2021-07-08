@@ -30,5 +30,4 @@ Clients can use server functions to do the following tasks.
 
 (data.txt file contains the vegetable data in the in store)
 
-**Tested version**
-Go - 1.16
+**Tested version** | Go - 1.16
