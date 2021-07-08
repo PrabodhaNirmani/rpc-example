@@ -1,0 +1,14 @@
+Ginger:100.4:500
+coconut:3.4:45.3
+radish:1:12
+okra:12.3:665
+Cucumber:100.4:500
+BeetRoot:280:11205.3
+pumpkin:12:23.4
+GreenChili:110:2000
+Capsicums:116:1550
+EggPlant:34:45.6
+Broccoli:12.3:23.3
+Cabbage:111:1050
+Garlic:105:150012
+Beans:102:1200
